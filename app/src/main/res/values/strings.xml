@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Form Filler</string>
+    <string name="default_web_client_id">822615682391-s2umc7kh8q6sb0ajatieeotkl6bnk564.apps.googleusercontent.com</string>
+
+    <!-- Menu strings -->
+    <string name="menu_form_title">Automate Google Forms Responses</string>
+    <string name="menu_form_description">A tool designed to generating answers for Google Forms by automating the input.</string>
+    <string name="menu_summarize_title">Summarization Tool</string>
+    <string name="menu_summarize_description">A tool summarizing text input for understanding the information more effectively.</string>
+    <string name="menu_reason_title">Multimodal Text Generation</string>
+    <string name="menu_reason_description">A tool for generating textual content from both text and image inputs, enhancing the depth and context of generated text.</string>
+    <string name="menu_chat_title">Conversational Assistant</string>
+    <string name="menu_chat_description">A tool for creating interactive multi-turn conversational interfaces</string>
+
+    <string name="action_go">Go</string>
+    <string name="action_try">Try it</string>
+
+    <!-- Summarize sample strings -->
+    <string name="form_label">Text</string>
+    <string name="form_hint">Enter text to summarize</string>
+
+    <!-- Summarize sample strings -->
+    <string name="summarize_label">Text</string>
+    <string name="summarize_hint">Enter text to summarize</string>
+
+    <!-- Photo Reasoning sample strings -->
+    <string name="reason_label">Question</string>
+    <string name="reason_hint">Upload an image and then ask a question</string>
+    <string name="add_image">Add Image</string>
+
+    <!-- Chat sample strings -->
+    <string name="chat_label">Message</string>
+    <string name="action_send">Send</string>
+</resources>

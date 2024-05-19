@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822615682391",
+    "project_id": "form-filler-1c164",
+    "storage_bucket": "form-filler-1c164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822615682391:android:efaaac473f701a094ce212",
+        "android_client_info": {
+          "package_name": "com.pvsrishabh.formfiller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCunXMHXkrX9noC25azAT_SYrNLcIpSfNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
